@@ -1,1 +1,0 @@
-En esta carpeta se encuentran todos los diagramas de casos de uso utilizados.
