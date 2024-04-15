@@ -1,0 +1,1 @@
+En esta carpeta se encuentra el diagrama de clases utilizado en el proyecto.
